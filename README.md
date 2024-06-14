@@ -1,5 +1,7 @@
 ## Hello there 👋
 
+**`Data and Political Scientist`**
+
 With a unique blend of data science and political science expertise, I harness the power of code to drive meaningful change. <br>
 From ideation and meticulous planning to innovative design and real-world problem-solving, my mission is to empower people and create positive change through technology. <br>
 <br>

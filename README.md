@@ -5,7 +5,7 @@
 With a unique blend of data science and political science expertise, I harness the power of code to drive meaningful change. <br>
 From ideation and meticulous planning to innovative design and real-world problem-solving, my mission is to empower people and create positive change through technology. <br>
 <br>
-- 👨🏻‍💻 **data scientist** @ <a href="https://www.newtail.com.br/"> NewTail </a>
+- 👨🏻‍💻 **data scientist** @ <a href="https://vtex.com/"> VTEX </a>
 - 👨🏻‍🍼 proud father of **Alice**
 - ✈️ passionate about **traveling**
 - 🎮 **gamer** in my spare time
